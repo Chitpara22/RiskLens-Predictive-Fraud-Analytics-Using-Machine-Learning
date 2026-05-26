@@ -53,19 +53,8 @@ Fraud Distribution Visualization
 Business Performance Analytics
 
 
-RiskLens/
-│
-├── dataset/
-│   └── financial_performance.csv
-│
-├── notebooks/
-│   └── model_training.ipynb
-│
-├── app.py
-├── fraud_model.pkl
-├── requirements.txt
-├── README.md
-└── assets/
+<img width="181" height="200" alt="image" src="https://github.com/user-attachments/assets/b72e0e58-672e-4a83-a178-ad87bba724f5" />
+
 
 🎯 Objectives
 Detect fraudulent financial transactions automatically
